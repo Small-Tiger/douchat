@@ -1,0 +1,244 @@
+[ 2018-05-26T14:18:58+08:00 ] 27.38.4.128 /index.php?s=/User/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Constant NOW_TIME already defined /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/App.class.php 第 30 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `dc_system_setting` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006317s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2018-05-26T14:19:02+08:00 ] 27.38.4.128 /index.php?s=/User/Public/geetest_verify/t/1527315535250
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Constant NOW_TIME already defined /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/App.class.php 第 30 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `dc_system_setting` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2018-05-26T14:19:10+08:00 ] 27.38.4.128 /index.php?s=/User/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Constant NOW_TIME already defined /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/App.class.php 第 30 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `dc_system_setting` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `dc_user` [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `dc_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `dc_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `dc_user` WHERE `username` = 'admin' AND `password` = 'da5d7a30b3e0ed80a0b5e3a0c78ea77c' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `default_mpid` FROM `dc_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `dc_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `dc_addons` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `dc_mp` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `dc_addons` [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`bzname`,`type` FROM `dc_addons` WHERE `status` = 1  [ RunTime:0.0002s ]
+NOTIC: [2] Invalid argument supplied for foreach() /usr/share/nginx/www/douchat/App/User/Model/UserModel.class.php 第 135 行.
+
+[ 2018-05-26T14:25:16+08:00 ] 106.120.161.68 /index.php?s=/User/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Constant NOW_TIME already defined /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/App.class.php 第 30 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `dc_system_setting` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003798s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2018-05-26T14:25:34+08:00 ] 101.199.110.109 /index.php?s=/User/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+NOTIC: [8] Constant NOW_TIME already defined /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/App.class.php 第 30 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `dc_system_setting` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003024s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000261s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000284s ]
+
+[ 2018-05-26T14:25:38+08:00 ] 101.199.110.109 /index.php?s=/User/Public/geetest_verify/t/1527315937917
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Constant NOW_TIME already defined /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/App.class.php 第 30 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `dc_system_setting` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2018-05-26T14:28:46+08:00 ] 106.120.161.68 /index.php?s=/User/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+NOTIC: [8] Constant NOW_TIME already defined /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/App.class.php 第 30 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `dc_system_setting` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003989s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000434s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2018-05-26T14:29:00+08:00 ] 101.199.110.109 /index.php?s=/User/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Constant NOW_TIME already defined /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/App.class.php 第 30 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `dc_system_setting` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002890s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2018-05-26T14:29:02+08:00 ] 101.199.110.109 /index.php?s=/User/Public/geetest_verify/t/1527316142671
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+NOTIC: [8] Constant NOW_TIME already defined /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/App.class.php 第 30 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `dc_system_setting` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `dc_system_setting`  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: result /usr/share/nginx/www/douchat/ThinkPHP/Library/Think/Hook.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000526s ]
+
